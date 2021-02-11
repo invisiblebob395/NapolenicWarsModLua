@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45d9a122-2cc7-4fc7-89cd-148fba8b3461" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VIP.lua" beforeDir="false" afterPath="$PROJECT_DIR$/VIP.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/economy.lua" beforeDir="false" afterPath="$PROJECT_DIR$/economy.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jailbreak.lua" beforeDir="false" afterPath="$PROJECT_DIR$/jailbreak.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.lua" beforeDir="false" afterPath="$PROJECT_DIR$/main.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods.lua" beforeDir="false" afterPath="$PROJECT_DIR$/methods.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerTools.lua" beforeDir="false" afterPath="$PROJECT_DIR$/playerTools.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zombie.lua" beforeDir="false" afterPath="$PROJECT_DIR$/zombie.lua" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="579">
+              <caret line="528" column="32" selection-start-line="528" selection-start-column="32" selection-end-line="528" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zombie.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1290">
+              <caret line="86" column="29" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VIP.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pubg.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/minigames.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/methods.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/urlResponseReceived.lua">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mute.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/player.lua">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/molotovs.lua">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>printPos</find>
+      <find>/rmpro</find>
+      <find>removeProp</find>
+      <find>console</find>
+      <find>/sspanw</find>
+      <find>remove</find>
+      <find>agentKilled</find>
+      <find>/GIVEWOOD</find>
+      <find>isValide</find>
+      <find>zombieMode</find>
+      <find>MOYU</find>
+      <find>MOOYU</find>
+      <find>chatMe</find>
+      <find>coloredChat</find>
+      <find>send_message</find>
+      <find>hasValue</find>
+      <find>split</find>
+      <find>broadcastColo</find>
+      <find>str_store_pl</find>
+      <find>call_script</find>
+      <find>/rmprop</find>
+      <find>/sspawn</find>
+      <find>1942923</find>
+      <find>1890570</find>
+      <find>1625715</find>
+      <find>sendInter</find>
+      <find>死 了</find>
+      <find>1638495</find>
+      <find>game.player_set_username</find>
+      <find>vip</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/playerTools.lua" />
+        <option value="$PROJECT_DIR$/economy.lua" />
+        <option value="$PROJECT_DIR$/zombie.lua" />
+        <option value="$PROJECT_DIR$/jailbreak.lua" />
+        <option value="$PROJECT_DIR$/methods.lua" />
+        <option value="$PROJECT_DIR$/pubg.lua" />
+        <option value="$PROJECT_DIR$/main.lua" />
+        <option value="$PROJECT_DIR$/VIP.lua" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MBProjectV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MBProjectV3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MBProjectV3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MBProjectV3" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613050011536" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45d9a122-2cc7-4fc7-89cd-148fba8b3461" name="Default Changelist" comment="" />
+      <created>1560048457548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560048457548</updated>
+      <workItem from="1560048460510" duration="507000" />
+      <workItem from="1560088914447" duration="2243000" />
+      <workItem from="1560766033052" duration="309000" />
+      <workItem from="1560910762816" duration="13000" />
+      <workItem from="1561511680082" duration="4683000" />
+      <workItem from="1561638290257" duration="6766000" />
+      <workItem from="1561786543111" duration="8360000" />
+      <workItem from="1562135373256" duration="414000" />
+      <workItem from="1562318864315" duration="369000" />
+      <workItem from="1562410782218" duration="7396000" />
+      <workItem from="1562599046861" duration="8713000" />
+      <workItem from="1562754693967" duration="8098000" />
+      <workItem from="1562802938659" duration="18306000" />
+      <workItem from="1563205888258" duration="7187000" />
+      <workItem from="1563490662075" duration="7743000" />
+      <workItem from="1563850440379" duration="6558000" />
+      <workItem from="1564176709652" duration="9142000" />
+      <workItem from="1564385741930" duration="13718000" />
+      <workItem from="1564626971759" duration="6595000" />
+      <workItem from="1564878325727" duration="2045000" />
+      <workItem from="1565277142825" duration="301000" />
+      <workItem from="1565417164070" duration="44000" />
+      <workItem from="1565417245157" duration="4528000" />
+      <workItem from="1565497058600" duration="1636000" />
+      <workItem from="1565589195613" duration="2288000" />
+      <workItem from="1565657614745" duration="1860000" />
+      <workItem from="1565962901903" duration="383000" />
+      <workItem from="1566049674721" duration="562000" />
+      <workItem from="1566373869293" duration="355000" />
+      <workItem from="1566430644768" duration="358000" />
+      <workItem from="1566611526677" duration="2336000" />
+      <workItem from="1566784880592" duration="148000" />
+      <workItem from="1567235530002" duration="605000" />
+      <workItem from="1568454682702" duration="1030000" />
+      <workItem from="1569580694197" duration="377000" />
+      <workItem from="1569840580683" duration="423000" />
+      <workItem from="1569936234100" duration="1435000" />
+      <workItem from="1570234025577" duration="11000" />
+      <workItem from="1570504417779" duration="416000" />
+      <workItem from="1570679801233" duration="572000" />
+      <workItem from="1571289854036" duration="71000" />
+      <workItem from="1572613277673" duration="2617000" />
+      <workItem from="1572752052716" duration="1432000" />
+      <workItem from="1573140542632" duration="68000" />
+      <workItem from="1573487316493" duration="875000" />
+      <workItem from="1573513512704" duration="132000" />
+      <workItem from="1573994719751" duration="523000" />
+      <workItem from="1574059108069" duration="6000" />
+      <workItem from="1574495958774" duration="311000" />
+      <workItem from="1574522704383" duration="972000" />
+      <workItem from="1574678126332" duration="1352000" />
+      <workItem from="1574739891323" duration="11000" />
+      <workItem from="1577283685152" duration="90000" />
+      <workItem from="1578116693464" duration="8000" />
+      <workItem from="1581055945509" duration="1639000" />
+      <workItem from="1581522367972" duration="300000" />
+      <workItem from="1581560369596" duration="2852000" />
+      <workItem from="1582132127633" duration="27000" />
+      <workItem from="1583134920085" duration="1737000" />
+      <workItem from="1587006755963" duration="110000" />
+      <workItem from="1588139279012" duration="2000" />
+      <workItem from="1590743698892" duration="280000" />
+      <workItem from="1591189885611" duration="1681000" />
+      <workItem from="1591540740394" duration="584000" />
+      <workItem from="1593230833713" duration="441000" />
+      <workItem from="1593311488816" duration="36000" />
+      <workItem from="1593311550116" duration="546000" />
+      <workItem from="1593393892286" duration="551000" />
+      <workItem from="1593395544315" duration="543000" />
+      <workItem from="1593432364422" duration="141000" />
+      <workItem from="1593449259247" duration="2000" />
+      <workItem from="1609731157949" duration="514000" />
+      <workItem from="1609904948129" duration="595000" />
+      <workItem from="1610012447823" duration="1126000" />
+      <workItem from="1610688391687" duration="719000" />
+      <workItem from="1612544261496" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="161732000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1007" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27635783" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3278867" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2701525" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="10" weight="0.32970297" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="IntelliGuard" order="14" />
+      <window_info anchor="bottom" id="Style Checker" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="LuaJ" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MBProjectV2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/persistentStorage.lua">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playerTools.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="44" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jailbreak.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="28" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/killStreak.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/economy.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminTools.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="528" column="32" selection-start-line="528" selection-start-column="32" selection-end-line="528" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zombie.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="29" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VIP.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubg.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minigames.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/methods.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urlResponseReceived.lua">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mute.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player.lua">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/molotovs.lua">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
